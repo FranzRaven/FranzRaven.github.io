@@ -21,7 +21,8 @@ Malibu 	#90E7F7 	144, 231, 247 	189, 42%, 77% 	Malibu Color
 */
 
 * {
-  font-family: 'Fira Code';
+    font-family: 'Fira Code';
+    max-width: 90%;
 }
 
 .ascii-art {
