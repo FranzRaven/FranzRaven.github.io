@@ -22,7 +22,6 @@ Malibu 	#90E7F7 	144, 231, 247 	189, 42%, 77% 	Malibu Color
 
 * {
     font-family: 'Fira Code';
-    max-width: 90%;
 }
 
 .ascii-art {
@@ -30,7 +29,8 @@ Malibu 	#90E7F7 	144, 231, 247 	189, 42%, 77% 	Malibu Color
   margin-right:0%;
   text-align: center;
   white-space: pre;
-  color: 		#F92672  
+  color: 		#F92672 
+  
 }
 
 .boxing {
@@ -39,6 +39,7 @@ Malibu 	#90E7F7 	144, 231, 247 	189, 42%, 77% 	Malibu Color
   border-width:3px;
   border-style: dotted ;
   border-color: #fff;
+  
 }
 
 
@@ -47,6 +48,9 @@ body {
   background-color: #242424;
   margin-left: 15%;
   margin-right: 20%;
+  max-width: 50%;
+   
+
 }
 p {
   color : #d6d6d6
