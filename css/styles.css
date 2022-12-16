@@ -46,9 +46,9 @@ Malibu 	#90E7F7 	144, 231, 247 	189, 42%, 77% 	Malibu Color
 body {
   
   background-color: #242424;
-  margin-left: 15%;
-  margin-right: 20%;
-  max-width: 50%;
+  margin-left: 10%;
+  margin-right: 0%;
+  max-width: 900px;
    
 
 }
