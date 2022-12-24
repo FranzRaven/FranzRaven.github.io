@@ -1,0 +1,4 @@
+: r ! date
+Esc  68i * Esc
+
+
